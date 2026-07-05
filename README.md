@@ -10,7 +10,7 @@ Aplikasi web berbasis browser untuk membuat video visualisasi spektrum musik sec
 - **No Server Needed:** Semua pemrosesan dilakukan di sisi klien (*client-side*).
 
 ## 🛠 Cara Penggunaan
-1. Buka [Live Demo](#) **(Ganti tanda # dengan link GitHub Pages Anda)**.
+1. Buka [Live Demo](https://one2017.github.io/spektrum/) **(Ganti tanda # dengan link GitHub Pages Anda)**.
 2. Upload gambar latar (background) dan file audio (playlist).
 3. Atur posisi logo dan gaya spektrum melalui panel kontrol.
 4. Klik **"▶ Mulai Rekam Video"**.
